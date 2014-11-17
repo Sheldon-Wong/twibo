@@ -1,0 +1,37 @@
+<%- include header %>
+<div class="container">
+	<%- include intro %>
+	<form class="form-horizontal forms" method="post">
+	  <div class="control-group">
+	    <label class="control-label" for="inputUsername">用户名：</label>
+	    <div class="controls">
+	      <input type="text" name="name" id="inputUsername" placeholder="Username">
+	    </div>
+	  </div>
+	  <div class="control-group">
+	    <label class="control-label" for="inputPassword">密码：</label>
+	    <div class="controls">
+	      <input type="password" name="password" id="inputPassword" placeholder="Password">
+	    </div>
+	  </div>
+	  <div class="control-group">
+	    <label class="control-label" for="inputPassword">确认密码：</label>
+	    <div class="controls">
+	      <input type="password" name="password-repeat" id="inputPassword" placeholder="Confirm Password">
+	    </div>
+	  </div>
+	  <div class="control-group">
+	    <label class="control-label" for="inputEmail">邮箱：</label>
+	    <div class="controls">
+	      <input type="email" name="email" id="inputEmail" placeholder="Email">
+	    </div>
+	  </div>
+	  <div class="control-group">
+	    <div class="controls">
+	    	<a title="登录" href="/login">已有账号</a>
+	  		<button type="submit" value="注册" class="btn form-btn">注册</button>
+	    </div>
+	  </div>
+	</form>
+</div>
+<%- include footer %>

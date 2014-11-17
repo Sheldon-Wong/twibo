@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Billabong';
+    src:url('/fonts/Billabong.ttf');
+}
+
+body {
+	background: #edeeef url(../images/noise-2.png);
+	font-family: 'Microsoft Yahei';
+}
+
+.logo {
+	font-family: 'Billabong' !important;
+	color: white !important;
+	font-size: 30px !important;
+}
+
+h1.big-logo {
+	font-family: 'Billabong' !important;
+	color: #3f729b !important;
+	text-align: center;
+	margin: 100px 0 50px 0;
+	font-size: 100px;
+	text-shadow: 3px 3px 5px #2e2e2e;
+}
+
+#intro-article {
+	text-align: center;
+	text-shadow: 1px 1px 3px #2e2e2e;
+	font-weight: bold;
+	font-size: large;
+	line-height: 30px;
+}
+
+.forms {
+	width: 575px;
+	margin: 50px auto;
+}
+
+.form-btn {
+	margin-left: 105px;
+}
