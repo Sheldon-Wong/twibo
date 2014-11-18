@@ -2928,3 +2928,1712 @@ Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
 Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
 [Tue Nov 18 2014 00:02:07 GMT+0800 (中国标准时间)] /favicon.ico
 Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:33:29 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:33:29 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:33:33 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:33:33 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:33:39 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:33:41 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:33:41 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:34:10 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:34:10 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:34:11 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:34:19 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:34:21 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:34:23 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:34:24 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:36:36 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:36:36 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:36:43 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:36:45 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:36:45 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:37:12 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:37:12 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:37:13 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:37:13 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:37:13 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:37:13 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:37:35 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:37:36 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:37:36 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:37:37 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:37:37 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:37:37 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:37:44 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:37:53 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:37:53 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:37:57 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:37:57 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:38:02 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:38:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:38:08 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:38:09 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:38:16 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:38:19 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:38:19 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:38:21 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:38:23 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:38:26 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:40:51 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:40:51 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:41:33 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:335:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:227:27
+[Tue Nov 18 2014 16:41:33 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:41:38 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:41:39 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:41:39 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:41:41 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:41:47 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:41:49 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:42:03 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:42:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:43:07 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:43:07 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:43:10 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:43:10 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:43:14 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:43:14 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:43:19 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:43:19 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:43:25 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:47:26 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:47:26 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:48:03 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:48:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:48:15 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:48:15 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:49:30 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:49:30 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:49:32 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:49:33 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:49:33 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:49:33 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:49:47 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:49:48 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:49:48 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:49:48 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:49:51 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:49:53 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:49:53 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 16:52:53 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:59:08 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 16:59:10 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:00:23 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:00:25 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:00:31 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:01:06 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:01:07 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:01:07 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:01:07 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:01:07 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:01:08 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:01:08 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:01:08 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:01:56 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:02:25 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:03:37 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:09:36 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:10:53 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at Object.session [as handle] (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:307:7)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at Object.cookieParser [as handle] (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\cookieParser.js:60:5)
+[Tue Nov 18 2014 17:11:38 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:10:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at Object.session [as handle] (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:307:7)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at Object.cookieParser [as handle] (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\cookieParser.js:60:5)
+[Tue Nov 18 2014 17:13:06 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:13:08 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:13:48 GMT+0800 (中国标准时间)] /reg
+Error: no open connections
+    at Db._executeQueryCommand (d:\github\twibo\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\db.js:1802:21)
+    at Cursor.nextObject (d:\github\twibo\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\cursor.js:729:13)
+    at Cursor.nextObject (d:\github\twibo\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\scope.js:22:20)
+    at Collection.findOne (d:\github\twibo\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\collection\query.js:145:10)
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:214:18
+    at MongoStore._get_collection (d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:148:21)
+    at MongoStore.get (d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:213:10)
+    at Object.session [as handle] (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:314:11)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at Object.cookieParser [as handle] (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\cookieParser.js:60:5)
+[Tue Nov 18 2014 17:13:50 GMT+0800 (中国标准时间)] /reg
+Error: no open connections
+    at Db._executeQueryCommand (d:\github\twibo\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\db.js:1802:21)
+    at Cursor.nextObject (d:\github\twibo\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\cursor.js:729:13)
+    at Cursor.nextObject (d:\github\twibo\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\scope.js:22:20)
+    at Collection.findOne (d:\github\twibo\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\collection\query.js:145:10)
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:214:18
+    at MongoStore._get_collection (d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:148:21)
+    at MongoStore.get (d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:213:10)
+    at Object.session [as handle] (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:314:11)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at Object.cookieParser [as handle] (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\cookieParser.js:60:5)
+[Tue Nov 18 2014 17:13:59 GMT+0800 (中国标准时间)] /login
+Error: no open connections
+    at Db._executeQueryCommand (d:\github\twibo\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\db.js:1802:21)
+    at Cursor.nextObject (d:\github\twibo\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\cursor.js:729:13)
+    at Cursor.nextObject (d:\github\twibo\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\scope.js:22:20)
+    at Collection.findOne (d:\github\twibo\node_modules\connect-mongo\node_modules\mongodb\lib\mongodb\collection\query.js:145:10)
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:214:18
+    at MongoStore._get_collection (d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:148:21)
+    at MongoStore.get (d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:213:10)
+    at Object.session [as handle] (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:314:11)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at Object.cookieParser [as handle] (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\cookieParser.js:60:5)
+[Tue Nov 18 2014 17:14:23 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:15:10 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:15:12 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:15:14 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:16:08 GMT+0800 (中国标准时间)] /
+ReferenceError: posts is not defined
+    at d:\github\twibo\routes\index.js:12:14
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:16:12 GMT+0800 (中国标准时间)] /
+ReferenceError: posts is not defined
+    at d:\github\twibo\routes\index.js:12:14
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:16:18 GMT+0800 (中国标准时间)] /
+ReferenceError: posts is not defined
+    at d:\github\twibo\routes\index.js:12:14
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:21:58 GMT+0800 (中国标准时间)] /
+ReferenceError: posts is not defined
+    at d:\github\twibo\routes\index.js:12:14
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:21:59 GMT+0800 (中国标准时间)] /
+ReferenceError: posts is not defined
+    at d:\github\twibo\routes\index.js:12:14
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:22:12 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:22:14 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:22:14 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:22:14 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:22:15 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:22:15 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:22:15 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:22:15 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:22:15 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:22:15 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:22:16 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:22:16 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:22:16 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:22:16 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:22:16 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:22:16 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:22:16 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:22:23 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:22:25 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:22:27 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:22:27 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:27:02 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:27:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:27:05 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:27:05 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:27:25 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:27:25 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:27:25 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:27:25 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:27:26 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:27:26 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:27:27 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:27:27 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:27:43 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:27:43 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:27:58 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:27:58 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:28:04 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:28:06 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:28:06 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:28:20 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:28:20 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:28:21 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:28:21 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:28:40 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:28:40 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:32:36 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:32:37 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:32:38 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:32:39 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:34:56 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:34:58 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:35:00 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:35:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:36:59 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:36:59 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:37:48 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:37:48 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:37:59 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:37:59 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:38:02 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:38:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:50:15 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:50:16 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:51:10 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:51:10 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 17:51:45 GMT+0800 (中国标准时间)] /
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'get'
+    at d:\github\twibo\routes\index.js:9:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Tue Nov 18 2014 17:51:45 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:07:00 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:07:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:07:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:07:05 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:07:05 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:07:07 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:07:11 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:07:14 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:10:42 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:14:11 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:14:56 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:14:58 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:15:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:15:05 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:15:06 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:15:12 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:16:44 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:16:47 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:20:59 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:21:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:40:39 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:40:42 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:40:43 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:40:44 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:40:45 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:49:07 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:49:09 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:49:15 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:49:43 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:49:47 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:49:52 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:49:54 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:50:16 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:50:35 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Tue Nov 18 2014 23:50:43 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'

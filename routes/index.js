@@ -6,15 +6,15 @@ var crypto = require('crypto'),
 
 module.exports = function(app) {
   app.get('/', function (req, res) {
-    //查询并返回第 page 页的 10 篇文章
     Post.get(null, function (err, posts) {
       if (err) {
         posts = [];
+        console.log( err );
       } 
       res.render('index', {
         title: '主页',
-        posts: posts,
         user: req.session.user,
+        posts: posts,
         success: req.flash('success').toString(),
         error: req.flash('error').toString()
       });
