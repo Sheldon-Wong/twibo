@@ -101,16 +101,6 @@ module.exports = function(app) {
     });
   });
 
-  app.get('/post', checkLogin);
-  app.get('/post', function (req, res) {
-    res.render('post', {
-      title: '发表',
-      user: req.session.user,
-      success: req.flash('success').toString(),
-      error: req.flash('error').toString()
-    });
-  });
-
   app.post('/post', checkLogin);
   app.post('/post', function (req, res) {
     var currentUser = req.session.user,

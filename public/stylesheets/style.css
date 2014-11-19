@@ -8,6 +8,10 @@ body {
 	font-family: 'Microsoft Yahei';
 }
 
+li {
+	list-style: none;
+}
+
 .logo {
 	font-family: 'Billabong' !important;
 	color: white !important;
@@ -29,6 +33,35 @@ h1.big-logo {
 	font-weight: bold;
 	font-size: large;
 	line-height: 30px;
+}
+
+.user-info {
+	background-color: white;
+	border-radius: 5px;
+	text-align: center;
+	padding: 25px 0;
+	margin-top: 10px;
+	line-height: 30px;
+}
+
+.user-info .avatar img {
+	width: 70px;
+	height: 70px;
+}
+
+.user-info .user-detail li {
+	float: left;
+	width: 30%;
+	text-align: center;
+	border-right: 1px solid #adadad;
+}
+
+.user-info .user-detail li:last-child {
+	border: 0;
+}
+
+.user-info .user-detail li a, .user-info .user-detail li strong, .user-info .user-detail li span {
+	display: block;
 }
 
 .forms {
