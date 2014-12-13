@@ -6,7 +6,7 @@ var crypto = require('crypto'),
 
 module.exports = function(app) {
   app.get('/', function (req, res) {
-    Post.get(null, function (err, posts) {
+    Post.getAll(null, function (err, posts) {
       if (err) {
         posts = [];
         console.log( err );
@@ -224,7 +224,6 @@ module.exports = function(app) {
   });
 
   app.get('/u/:name', function (req, res) {
-    var page = req.query.p ? parseInt(req.query.p) : 1;
     //检查用户是否存在
     User.get(req.params.name, function (err, user) {
       if (!user) {
@@ -232,18 +231,15 @@ module.exports = function(app) {
         return res.redirect('/');
       }
       //查询并返回该用户第 page 页的 10 篇文章
-      Post.getTen(user.name, page, function (err, posts, total) {
+      Post.getAll(user.name, function (err, posts) {
         if (err) {
           req.flash('error', err); 
           return res.redirect('/');
         }
-        res.render('user', {
-          title: user.name,
-          posts: posts,
-          page: page,
-          isFirstPage: (page - 1) == 0,
-          isLastPage: ((page - 1) * 10 + posts.length) == total,
+        res.render('index', {
+          title: user.name + '的主页',
           user: req.session.user,
+          posts: posts,
           success: req.flash('success').toString(),
           error: req.flash('error').toString()
         });
