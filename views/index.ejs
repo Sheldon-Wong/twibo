@@ -17,19 +17,19 @@
         <ul class="user-detail">
           <li>
             <a href="/u/<%= user.name %>/follow">
-              <strong>314</strong>
+              <strong><%= user.follow.length-1 %></strong>
               <span>关注</span>
             </a>
           </li>
           <li>
             <a href="/u/<%= user.name %>/fans">
-              <strong>860</strong>
+              <strong><%= user.fans.length %></strong>
               <span>粉丝</span>
             </a>
           </li>
           <li>
             <a href="/u/<%= user.name %>">
-              <strong>0</strong>
+              <strong><%= postNum %></strong>
               <span>Twibo</span>
             </a>
           </li>

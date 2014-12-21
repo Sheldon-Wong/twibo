@@ -6,19 +6,43 @@ var crypto = require('crypto'),
 
 module.exports = function(app) {
   app.get('/', function (req, res) {
-    Post.getAll(null, function (err, posts) {
-      if (err) {
-        posts = [];
-        console.log( err );
-      } 
-      res.render('index', {
-        title: '主页',
-        user: req.session.user,
-        posts: posts,
-        success: req.flash('success').toString(),
-        error: req.flash('error').toString()
+    if (!(req && req.session && req.session.user)) {
+      Post.getAll(null, function (err, posts) {
+        if (err) {
+          posts = [];
+        }
+        console.log('shenma');
+        res.render('index', {
+          title: '主页',
+          user: req.session.user,
+          posts: posts,
+          success: req.flash('success').toString(),
+          error: req.flash('error').toString()
+        });
       });
-    });
+    } else {
+      Post.getAll(null, function (err, posts) {
+        if (err) {
+          posts = [];
+        }
+        function postFilter (post) {
+          return post.name === req.session.user.name;
+        }
+        function followFilter (post) {
+          return req.session.user.follow.some(function (follow) {
+            return post.name === follow;
+          });
+        }
+        res.render('index', {
+          title: '主页',
+          user: req.session.user,
+          posts: posts.filter(followFilter),
+          postNum: posts.filter(postFilter).length,
+          success: req.flash('success').toString(),
+          error: req.flash('error').toString()
+        });
+      });
+    }
   });
 
   app.get('/reg', checkNotLogin);
@@ -236,7 +260,7 @@ module.exports = function(app) {
           req.flash('error', err); 
           return res.redirect('/');
         }
-        res.render('index', {
+        res.render('user', {
           title: user.name + '的主页',
           user: req.session.user,
           posts: posts,
@@ -244,7 +268,7 @@ module.exports = function(app) {
           error: req.flash('error').toString()
         });
       });
-    }); 
+    });
   });
 
   app.get('/u/:name/:day/:title', function (req, res) {

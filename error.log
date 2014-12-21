@@ -4992,3 +4992,2032 @@ TypeError: Object function Post(name, post) {
 Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
 [Sun Dec 14 2014 00:29:56 GMT+0800 (中国标准时间)] /favicon.ico
 Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:26:57 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:27:29 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:27:31 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:27:32 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:27:33 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:27:34 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:27:35 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:27:36 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:27:37 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:27:38 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:27:39 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:29:16 GMT+0800 (中国标准时间)] /search?keyword=233
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'search'
+    at d:\github\twibo\routes\index.js:211:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 14 2014 16:29:16 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:29:18 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:29:28 GMT+0800 (中国标准时间)] /search?keyword=sheldon
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'search'
+    at d:\github\twibo\routes\index.js:211:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 14 2014 16:29:28 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:29:30 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:30:25 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:30:27 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:30:29 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:30:31 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:32:01 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:32:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:32:06 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:32:07 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:32:08 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:36:35 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:36:38 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:36:40 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:36:41 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:36:42 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:36:43 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:36:43 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:36:44 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:36:47 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:36:49 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:36:58 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:40:30 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:40:31 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:41:27 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:45:24 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:45:26 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:45:32 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:47:26 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:47:27 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:47:35 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:48:20 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:48:21 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:48:26 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:56:21 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:56:24 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 14 2014 16:56:29 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:13:46 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:13:49 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:13:52 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:13:54 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:13:56 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:21:49 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:22:05 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:22:22 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:22:52 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:38:40 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:38:44 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:40:46 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:40:47 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:40:58 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:42:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:42:08 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:42:10 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:42:11 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:43:45 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:32
+    30|           <li>
+    31|             <a href="/u/<%= user.name %>">
+ >> 32|               <strong><%= post.length %></strong>
+    33|               <span>Twibo</span>
+    34|             </a>
+    35|           </li>
+
+post is not defined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:1250)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:11
+    at d:\github\twibo\models\post.js:78:9
+[Sat Dec 20 2014 20:43:45 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:43:46 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:43:47 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:32
+    30|           <li>
+    31|             <a href="/u/<%= user.name %>">
+ >> 32|               <strong><%= post.length %></strong>
+    33|               <span>Twibo</span>
+    34|             </a>
+    35|           </li>
+
+post is not defined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:1250)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:11
+    at d:\github\twibo\models\post.js:78:9
+[Sat Dec 20 2014 20:43:48 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:43:49 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:44:07 GMT+0800 (中国标准时间)] /
+SyntaxError: Unexpected token ] in "d:\\github\\twibo\\views\\index.ejs"
+    at Object.Function (<anonymous>)
+    at exports.compile (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14)
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:283:10)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:11
+    at d:\github\twibo\models\post.js:78:9
+    at d:\github\twibo\node_modules\mongodb\lib\mongodb\cursor.js:172:16
+[Sat Dec 20 2014 20:44:07 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:44:08 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:44:18 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:47:20 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:47:23 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:47:24 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:47:38 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:48:28 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:48:29 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:48:35 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:52:14 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:52:33 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:52:39 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:53:05 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:53:24 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:53:25 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:53:30 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:54:11 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:54:12 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 20:54:37 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 21:00:04 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:47:56 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:47:58 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:47:59 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:48:09 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:48:14 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:48:15 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:48:18 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:48:20 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:48:25 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:48:26 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:48:29 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:50:56 GMT+0800 (中国标准时间)] /
+TypeError: d:\github\twibo\views\index.ejs:32
+    30|           <li>
+    31|             <a href="/u/<%= user.name %>">
+ >> 32|               <strong><%= user.posts.length %></strong>
+    33|               <span>Twibo</span>
+    34|             </a>
+    35|           </li>
+
+Cannot read property 'length' of undefined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:1274)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:11
+    at d:\github\twibo\models\post.js:78:9
+[Sat Dec 20 2014 22:50:56 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:50:57 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:53:31 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:54:36 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:32
+    30|           <li>
+    31|             <a href="/u/<%= user.name %>">
+ >> 32|               <strong><%= posts['name'=user.name].length %></strong>
+    33|               <span>Twibo</span>
+    34|             </a>
+    35|           </li>
+
+Invalid left-hand side in assignment
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:1264)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:11
+    at d:\github\twibo\models\post.js:78:9
+[Sat Dec 20 2014 22:54:36 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:54:38 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 22:54:51 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 23:21:11 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 23:21:13 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 23:21:17 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sat Dec 20 2014 23:21:27 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:02:55 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:02:57 GMT+0800 (中国标准时间)] /
+TypeError: d:\github\twibo\views\index.ejs:32
+    30|           <li>
+    31|             <a href="/u/<%= user.name %>">
+ >> 32|               <strong><%= user.twibo.length %></strong>
+    33|               <span>Twibo</span>
+    34|             </a>
+    35|           </li>
+
+Cannot read property 'length' of undefined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:1274)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:11
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 00:02:57 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:02:59 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:03:00 GMT+0800 (中国标准时间)] /
+TypeError: d:\github\twibo\views\index.ejs:32
+    30|           <li>
+    31|             <a href="/u/<%= user.name %>">
+ >> 32|               <strong><%= user.twibo.length %></strong>
+    33|               <span>Twibo</span>
+    34|             </a>
+    35|           </li>
+
+Cannot read property 'length' of undefined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:1274)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:11
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 00:03:00 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:03:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:03:35 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:03:37 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:03:38 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:03:39 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:03:42 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:03:43 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:03:47 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:03:52 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:03:53 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:03:54 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:03:55 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:04:55 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:04:59 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:05:08 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:06:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:06:03 GMT+0800 (中国标准时间)] /u/233
+ReferenceError: d:\github\twibo\views\user.ejs:15
+    13|     <ul class="user-detail">
+    14|       <li>
+ >> 15|         <a href="/u/<%= post.name %>/follow">
+    16|           <strong><%= user.follow.length %></strong>
+    17|           <span>关注</span>
+    18|         </a>
+
+post is not defined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:524)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:239:13
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 00:06:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:06:05 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:06:39 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:06:41 GMT+0800 (中国标准时间)] /u/233
+ReferenceError: d:\github\twibo\views\user.ejs:10
+    8|     <div class="info-box">
+    9|       <div class="name-box">
+ >> 10|         <a href="/u/<%= user.name %>"><%= post.name %></a>
+    11|       </div>
+    12|     </div>
+    13|     <ul class="user-detail">
+
+post is not defined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:384)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:239:13
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 00:06:41 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:06:42 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:06:56 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:06:57 GMT+0800 (中国标准时间)] /u/233
+ReferenceError: d:\github\twibo\views\user.ejs:10
+    8|     <div class="info-box">
+    9|       <div class="name-box">
+ >> 10|         <a href="/u/<%= user.name %>"><%= post.name %></a>
+    11|       </div>
+    12|     </div>
+    13|     <ul class="user-detail">
+
+post is not defined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:384)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:239:13
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 00:06:57 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:06:58 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:07:38 GMT+0800 (中国标准时间)] /search?keyword=233
+TypeError: Object function Post(name, post) {
+  this.name = name;
+  this.post = post;
+} has no method 'search'
+    at d:\github\twibo\routes\index.js:211:10
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:07:38 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:07:41 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:35:59 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:36:00 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:36:01 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:36:15 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:36:16 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:36:17 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:36:19 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:36:19 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:36:21 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:40:17 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:40:17 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:40:23 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:40:23 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:40:24 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:40:24 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:40:24 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:40:41 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:40:48 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:41:17 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:41:17 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:41:21 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:41:21 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:42:09 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:42:09 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:42:14 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:42:14 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:42:19 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:42:40 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:42:45 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:42:45 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:43:18 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:43:18 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:43:18 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:43:18 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:43:25 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:43:25 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:43:26 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:43:26 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:43:37 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:43:37 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:43:38 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:43:38 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:43:44 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:43:45 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:44:10 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:44:10 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:44:11 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 00:44:11 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:44:20 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:44:27 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:44:29 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:44:30 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:47:18 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:47:20 GMT+0800 (中国标准时间)] /u/233
+ReferenceError: d:\github\twibo\views\user.ejs:10
+    8|     <div class="info-box">
+    9|       <div class="name-box">
+ >> 10|         <a href="/u/<%= req.params.name %>"><%= req.params.name %></a>
+    11|       </div>
+    12|     </div>
+    13|     <ul class="user-detail">
+
+req is not defined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:336)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:239:13
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 00:47:20 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:47:21 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:48:46 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:48:48 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:48:55 GMT+0800 (中国标准时间)] /u/233
+TypeError: d:\github\twibo\views\user.ejs:6
+    4|   <div class="user-info span3">
+    5|     <div class="avatar">
+ >> 6|       <img src="<%= user.head %>" class="img-circle">
+    7|     </div>
+    8|     <div class="info-box">
+    9|       <div class="name-box">
+
+Cannot read property 'head' of undefined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:181)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:239:13
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 00:48:55 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:48:57 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:48:58 GMT+0800 (中国标准时间)] /u/Sheldon
+TypeError: d:\github\twibo\views\user.ejs:6
+    4|   <div class="user-info span3">
+    5|     <div class="avatar">
+ >> 6|       <img src="<%= user.head %>" class="img-circle">
+    7|     </div>
+    8|     <div class="info-box">
+    9|       <div class="name-box">
+
+Cannot read property 'head' of undefined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:181)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:239:13
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 00:48:58 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 00:49:00 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:28:58 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:28:59 GMT+0800 (中国标准时间)] /u/Sheldon
+TypeError: d:\github\twibo\views\user.ejs:6
+    4|   <div class="user-info span3">
+    5|     <div class="avatar">
+ >> 6|       <img src="<%= user.head %>" class="img-circle">
+    7|     </div>
+    8|     <div class="info-box">
+    9|       <div class="name-box">
+
+Cannot read property 'head' of undefined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:181)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:239:13
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 02:28:59 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:29:01 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:29:01 GMT+0800 (中国标准时间)] /u/233
+TypeError: d:\github\twibo\views\user.ejs:6
+    4|   <div class="user-info span3">
+    5|     <div class="avatar">
+ >> 6|       <img src="<%= user.head %>" class="img-circle">
+    7|     </div>
+    8|     <div class="info-box">
+    9|       <div class="name-box">
+
+Cannot read property 'head' of undefined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:181)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:239:13
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 02:29:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:29:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:29:22 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:29:24 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:29:26 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:29:27 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:29:29 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:29:33 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:29:34 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:31:40 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:33:36 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:33:37 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:33:40 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:33:41 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:33:44 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:33:45 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:33:47 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:33:49 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:33:52 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:33:54 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:33:56 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:34:47 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:34:50 GMT+0800 (中国标准时间)] /u/233
+ReferenceError: d:\github\twibo\views\user.ejs:10
+    8|     <div class="info-box">
+    9|       <div class="name-box">
+ >> 10|         <a href="/u/<%= post.name %>"><%= post.name %></a>
+    11|       </div>
+    12|     </div>
+    13|     <ul class="user-detail">
+
+post is not defined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:336)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:239:13
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 02:34:50 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:34:57 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:34:59 GMT+0800 (中国标准时间)] /u/Sheldon
+ReferenceError: d:\github\twibo\views\user.ejs:10
+    8|     <div class="info-box">
+    9|       <div class="name-box">
+ >> 10|         <a href="/u/<%= post.name %>"><%= post.name %></a>
+    11|       </div>
+    12|     </div>
+    13|     <ul class="user-detail">
+
+post is not defined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:336)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:239:13
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 02:34:59 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 02:35:01 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:21:10 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:21:13 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:21:16 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:41:31 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:41:32 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:44:46 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:44:48 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:44:50 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:44:51 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:44:54 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:44:55 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:45:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:45:04 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:47:19 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 12:47:19 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:47:37 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 12:47:38 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:47:39 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 12:47:39 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:48:43 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 12:48:44 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:49:07 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 12:49:07 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:49:09 GMT+0800 (中国标准时间)] /
+ReferenceError: user is not defined
+    at d:\github\twibo\routes\index.js:9:17
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 12:49:09 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:50:24 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:50:27 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:50:49 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:50:51 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:50:53 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:50:55 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:51:00 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:51:04 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:51:06 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:51:07 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:51:09 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:51:10 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:51:11 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:52:11 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:52:12 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:52:14 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:52:15 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:52:16 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:52:17 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:52:18 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 12:55:35 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:12:13 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:13:47 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:13:54 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:20:48 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:22:30 GMT+0800 (中国标准时间)] /
+TypeError: Cannot read property 'name' of null
+    at d:\github\twibo\routes\index.js:9:30
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 13:22:30 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:22:32 GMT+0800 (中国标准时间)] /
+TypeError: Cannot read property 'name' of null
+    at d:\github\twibo\routes\index.js:9:30
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 13:22:32 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:22:55 GMT+0800 (中国标准时间)] /
+TypeError: Cannot read property 'name' of null
+    at d:\github\twibo\routes\index.js:9:30
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 13:22:55 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:23:15 GMT+0800 (中国标准时间)] /
+TypeError: Cannot read property 'name' of null
+    at d:\github\twibo\routes\index.js:9:30
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 13:23:15 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:23:17 GMT+0800 (中国标准时间)] /
+TypeError: Cannot read property 'name' of null
+    at d:\github\twibo\routes\index.js:9:30
+    at callbacks (d:\github\twibo\node_modules\express\lib\router\index.js:164:37)
+    at param (d:\github\twibo\node_modules\express\lib\router\index.js:138:11)
+    at pass (d:\github\twibo\node_modules\express\lib\router\index.js:145:5)
+    at Router._dispatch (d:\github\twibo\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (d:\github\twibo\node_modules\express\lib\router\index.js:33:10)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at next (d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:318:9)
+    at d:\github\twibo\node_modules\express\node_modules\connect\lib\middleware\session.js:342:9
+    at d:\github\twibo\node_modules\connect-mongo\lib\connect-mongo.js:222:17
+[Sun Dec 21 2014 13:23:17 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:23:22 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:23:27 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:31:21 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:31:24 GMT+0800 (中国标准时间)] /
+TypeError: d:\github\twibo\views\index.ejs:32
+    30|           <li>
+    31|             <a href="/u/<%= user.name %>">
+ >> 32|               <strong><%= posts[user.name].length %></strong>
+    33|               <span>Twibo</span>
+    34|             </a>
+    35|           </li>
+
+Cannot read property 'length' of undefined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:1280)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:13:11
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 13:31:24 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:34:07 GMT+0800 (中国标准时间)] /
+TypeError: d:\github\twibo\views\index.ejs:32
+    30|           <li>
+    31|             <a href="/u/<%= user.name %>">
+ >> 32|               <strong><%= posts[name = user.name].length %></strong>
+    33|               <span>Twibo</span>
+    34|             </a>
+    35|           </li>
+
+Cannot read property 'length' of undefined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:1287)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:13:11
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 13:34:08 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:34:23 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:32
+    30|           <li>
+    31|             <a href="/u/<%= user.name %>">
+ >> 32|               <strong><%= posts['name' = user.name].length %></strong>
+    33|               <span>Twibo</span>
+    34|             </a>
+    35|           </li>
+
+Invalid left-hand side in assignment
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:1264)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:13:11
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 13:34:23 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 13:34:24 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:32
+    30|           <li>
+    31|             <a href="/u/<%= user.name %>">
+ >> 32|               <strong><%= posts['name' = user.name].length %></strong>
+    33|               <span>Twibo</span>
+    34|             </a>
+    35|           </li>
+
+Invalid left-hand side in assignment
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:1264)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:13:11
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 13:34:24 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:13:08 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:13:15 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:13:18 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:13:22 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:18:08 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:18:10 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:18:11 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:18:13 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:47:56 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:47:57 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:47:58 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:47:59 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:48:00 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:48:01 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:48:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:48:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:48:04 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:57:28 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:57:29 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:57:30 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 14:57:31 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 15:06:50 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 15:06:51 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 15:06:52 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 15:08:54 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 15:08:55 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 15:10:11 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 15:10:30 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 15:10:37 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 15:10:38 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 15:10:48 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 15:15:40 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 15:15:41 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 15:40:07 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:27:58 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:27:59 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:28:01 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:28:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:34:35 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:34:38 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:34:41 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:34:58 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:34:59 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:36:36 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:36:38 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:37:46 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:37:48 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:39:35 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:39:36 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:39:42 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:40:11 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:40:15 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:40:17 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:44:45 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:44:50 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:44:53 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:44:53 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:44:57 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:45:32 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:47:13 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:47:21 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:47:23 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:47:26 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:47:37 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:47:39 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:47:40 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:47:42 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:47:45 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:48:01 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:48:10 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:48:11 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:48:12 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:48:15 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:48:18 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:48:19 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:48:20 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:48:52 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:48:53 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:48:53 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:48:56 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:48:57 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:49:58 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:50:00 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:50:01 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:50:01 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:50:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:50:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:50:04 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:50:05 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:50:07 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:50:18 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:50:21 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:50:25 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:50:27 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:50:28 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:51:00 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:51:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:52:53 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:52:57 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:53:00 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:53:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:53:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:53:11 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:53:18 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 16:53:20 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:00:47 GMT+0800 (中国标准时间)] /u/233
+TypeError: d:\github\twibo\views\user.ejs:6
+    4|   <div class="user-info span3">
+    5|     <div class="avatar">
+ >> 6|       <img src="<%= user.head %>" class="img-circle">
+    7|     </div>
+    8|     <div class="info-box">
+    9|       <div class="name-box">
+
+Cannot read property 'head' of undefined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:181)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:263:13
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 17:00:47 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:00:49 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:00:53 GMT+0800 (中国标准时间)] /u/233
+TypeError: d:\github\twibo\views\user.ejs:6
+    4|   <div class="user-info span3">
+    5|     <div class="avatar">
+ >> 6|       <img src="<%= user.head %>" class="img-circle">
+    7|     </div>
+    8|     <div class="info-box">
+    9|       <div class="name-box">
+
+Cannot read property 'head' of undefined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:181)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:263:13
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 17:00:53 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:00:54 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:00:59 GMT+0800 (中国标准时间)] /u/233
+TypeError: d:\github\twibo\views\user.ejs:6
+    4|   <div class="user-info span3">
+    5|     <div class="avatar">
+ >> 6|       <img src="<%= user.head %>" class="img-circle">
+    7|     </div>
+    8|     <div class="info-box">
+    9|       <div class="name-box">
+
+Cannot read property 'head' of undefined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:181)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:263:13
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 17:00:59 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:01:00 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:01:01 GMT+0800 (中国标准时间)] /u/233
+TypeError: d:\github\twibo\views\user.ejs:6
+    4|   <div class="user-info span3">
+    5|     <div class="avatar">
+ >> 6|       <img src="<%= user.head %>" class="img-circle">
+    7|     </div>
+    8|     <div class="info-box">
+    9|       <div class="name-box">
+
+Cannot read property 'head' of undefined
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:181)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:263:13
+    at d:\github\twibo\models\post.js:78:9
+[Sun Dec 21 2014 17:01:01 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:01:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:01:06 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:01:40 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:01:41 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:03:40 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:15:14 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:13
+[Sun Dec 21 2014 17:16:02 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:13
+[Sun Dec 21 2014 17:16:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:17:07 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:13
+[Sun Dec 21 2014 17:17:07 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:22:24 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:13
+[Sun Dec 21 2014 17:22:24 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:22:25 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:13
+[Sun Dec 21 2014 17:22:25 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:31:01 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:13
+[Sun Dec 21 2014 17:31:01 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:31:05 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:13
+[Sun Dec 21 2014 17:31:05 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:33:24 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:14:13
+[Sun Dec 21 2014 17:33:24 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:41:33 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:15:13
+[Sun Dec 21 2014 17:41:33 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:43:02 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:15:13
+[Sun Dec 21 2014 17:43:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:43:03 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:15:13
+[Sun Dec 21 2014 17:43:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:43:03 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:15:13
+[Sun Dec 21 2014 17:43:03 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:43:04 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:15:13
+[Sun Dec 21 2014 17:43:04 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:43:05 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:15:13
+[Sun Dec 21 2014 17:43:05 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:43:05 GMT+0800 (中国标准时间)] /
+ReferenceError: d:\github\twibo\views\index.ejs:25
+    23|           </li>
+    24|           <li>
+ >> 25|             <a href="/u/<%= user.name %>/fans">
+    26|               <strong><%= user.fans.length %></strong>
+    27|               <span>粉丝</span>
+    28|             </a>
+
+user is not defined
+    at __stack.lineno (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:30:784)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:31:23)
+    at eval (eval at <anonymous> (d:\github\twibo\node_modules\ejs\lib\ejs.js:236:14), <anonymous>:33:35)
+    at d:\github\twibo\node_modules\ejs\lib\ejs.js:249:15
+    at Object.exports.render (d:\github\twibo\node_modules\ejs\lib\ejs.js:287:13)
+    at View.exports.renderFile [as engine] (d:\github\twibo\node_modules\ejs\lib\ejs.js:317:20)
+    at View.render (d:\github\twibo\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (d:\github\twibo\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (d:\github\twibo\node_modules\express\lib\response.js:801:7)
+    at d:\github\twibo\routes\index.js:15:13
+[Sun Dec 21 2014 17:43:06 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:45:25 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:47:58 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:48:00 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:48:02 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:48:04 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:48:04 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:48:07 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:48:10 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:48:14 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:48:15 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:48:16 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:48:17 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:48:20 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
+[Sun Dec 21 2014 17:55:24 GMT+0800 (中国标准时间)] /favicon.ico
+Error: ENOENT, open 'd:\github\twibo\public\images\favicon.ico'
