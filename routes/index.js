@@ -255,19 +255,38 @@ module.exports = function(app) {
         return res.redirect('/');
       }
       //查询并返回该用户第 page 页的 10 篇文章
-      Post.getAll(user.name, function (err, posts) {
+      Post.getAll(req.params.name, function (err, posts) {
         if (err) {
           req.flash('error', err); 
           return res.redirect('/');
         }
-        res.render('user', {
+        res.render('posts', {
           title: user.name + '的主页',
           user: req.session.user,
+          puser: user,
           posts: posts,
           success: req.flash('success').toString(),
           error: req.flash('error').toString()
         });
       });
+    });
+  });
+
+  app.post('/follow', checkLogin);
+  app.post('/follow', function (req, res) {
+    User.get( req.body.follow + '', function (err, puser ) {
+      var user = req.session.user;
+      if (err) {
+        req.flash('error', err)
+        return res.redirect('/');
+      }
+      user.follow.push(puser.name);
+      //puser.fans.push(user.name);
+
+      User.prototype.save.call(user);
+      //User.prototype.save.call(puser);
+
+      res.send({status: 0});
     });
   });
 
@@ -400,4 +419,6 @@ module.exports = function(app) {
     }
     next();
   }
+
+
 };

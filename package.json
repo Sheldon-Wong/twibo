@@ -9,6 +9,7 @@
     "express": "^3.4.4",
     "ejs": "*",
     "mongodb": "*",
+    "mongoose": "*",
     "connect-mongo": "*",
     "connect-flash": "*",
     "markdown": "*"

@@ -22,7 +22,7 @@ User.prototype.save = function(callback) {
       password: this.password,
       email: this.email,
       head: head,
-      follow: [this.name],
+      follow: this.follow.length === 0 ? [this.name] : this.follow,
       fans: fans
   };
   //打开数据库
@@ -44,7 +44,7 @@ User.prototype.save = function(callback) {
         if (err) {
           return callback(err);
         }
-        callback(null, user[0]);//成功！err 为 null，并返回存储后的用户文档
+        callback ? callback(null, user[0]) : null;//成功！err 为 null，并返回存储后的用户文档
       });
     });
   });

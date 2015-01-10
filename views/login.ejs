@@ -1,25 +1,29 @@
 <%- include header %>
-<div class="container">
-	<%- include intro %>
-	<form class="form-horizontal forms" method="post">
-	  <div class="control-group">
-	    <label class="control-label" for="inputUsername">用户名：</label>
-	    <div class="controls">
-	      <input type="text" name="name" id="inputUsername" placeholder="Username">
-	    </div>
-	  </div>
-	  <div class="control-group">
-	    <label class="control-label" for="inputPassword">密码：</label>
-	    <div class="controls">
-	      <input type="password" name="password" id="inputPassword" placeholder="Password">
-	    </div>
-	  </div>
-	  <div class="control-group">
-	    <div class="controls">
-	    	<a title="注册" href="/reg">注册戳我</a>
-	  		<button type="submit" value="登录" class="btn form-btn">登录</button>
-	    </div>
-	  </div>
-	</form>
-</div>
-<%- include footer %>
+			<div class="container">
+				<%- include intro %>
+				<form class="form-horizontal forms" method="post">
+				  <div class="control-group">
+				    <label class="control-label" for="inputUsername">用户名：</label>
+				    <div class="controls">
+				      <input type="text" name="name" id="inputUsername" placeholder="Username">
+				    </div>
+				  </div>
+				  <div class="control-group">
+				    <label class="control-label" for="inputPassword">密码：</label>
+				    <div class="controls">
+				      <input type="password" name="password" id="inputPassword" placeholder="Password">
+				    </div>
+				  </div>
+				  <div class="control-group">
+				    <div class="controls">
+				    	<a title="注册" href="/reg">注册戳我</a>
+				  		<button type="submit" value="登录" class="btn form-btn">登录</button>
+				    </div>
+				  </div>
+				</form>
+			</div>
+		</article>
+		<script src="javascripts/jquery-2.1.1.min.js"></script>
+		<script src="javascripts/bootstrap.js"></script>
+	</body>
+</html>
