@@ -25,10 +25,10 @@
 	    <ul class="nav pull-right">
 	    <% if (user) { %>
 	    	<li><a href="/u/<%= user.name %>"><%= user.name %></a></li>
+	    	<li><a href="/avatar">头像</a></li>
 	    	<li><a title="登出" href="/logout">登出</a></li>
 	    <% } else { %>
-	    	<li><a title="登录" href="/login">登录</a></li>
-	    	<li><a title="注册" href="/reg">注册</a></li>
+	    	
 	    <% } %>
 	    </ul>
 	</div>
@@ -38,8 +38,5 @@
 <article>
 
 <% if (success) { %>
-  <div><%= success %></div>
-<% } %>
-<% if (error) { %>
-  <div><%= error %> </div>
+  
 <% } %>

@@ -1,0 +1,59 @@
+<%- include header %>
+<div class="container">
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <!--用户信息栏-->
+      <div class="user-info offset2 span8">
+        <div class="pavatar">
+          <img src="<%= user.head %>" class="img-circle img-polaroid">
+        </div>
+        <div class="info-box">
+          <div class="pname-box">
+            <a href="/u/<%= user.name %>"><%= user.name %></a>
+          </div>
+        </div>
+        <ul class="user-detail user">
+          <li>
+            <a href="/u/<%= user.name %>/follow">
+              <strong><%= user.follow.length-1 %></strong>
+              <span>关注</span>
+            </a>
+          </li>
+          <li>
+            <a href="/u/<%= user.name %>/fans">
+              <strong id="fans-length"><%= user.fans.length %></strong>
+              <span>粉丝</span>
+            </a>
+          </li>
+          <li class="info-last">
+            <a href="/u/<%= user.name %>">
+              <strong id="twibo-length"><%= user.posts.length %></strong>
+              <span>Twibo</span>
+            </a>
+          </li>
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+    <div class="row-fluid">
+      <div class="all-user offset2 span8">
+        <div class="curAvatar"><span>当前头像：</span></br><img src="<%= user.head %>" class="img-polaroid"></div>
+        <div class="upload">
+          <form method="post" action="/avatar" enctype="multipart/form-data">
+            <input type="file" name="avatar" accept="image/jpeg, image/png" />
+            <button class="btn btn-primary" type="submit" value="提交">提交</button>
+          </form>
+          <% if (error) { %>
+            <div class="error"><%= error %> </div>
+          <% } %>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+    <script src="javascripts/jquery-2.1.1.min.js"></script>
+    <script src="javascripts/bootstrap.js"></script>
+    <script type="text/javascript" src="javascripts/user.js"></script>
+  </body>
+</html>

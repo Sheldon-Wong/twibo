@@ -2,6 +2,9 @@
 		<div class="container">
 			<%- include intro %>
 			<form class="form-horizontal forms" method="post">
+			<% if (error) { %>
+	          <div class="error"><%= error %> </div>
+	     	<% } %>
 			  <div class="control-group">
 			    <label class="control-label" for="inputUsername">用户名：</label>
 			    <div class="controls">
@@ -24,6 +27,17 @@
 			    <label class="control-label" for="inputEmail">邮箱：</label>
 			    <div class="controls">
 			      <input type="email" name="email" id="inputEmail" placeholder="Email">
+			    </div>
+			  </div>
+			  <div class="control-group">
+			    <label class="control-label" for="inputGender">性别：</label>
+			    <div class="controls">
+			    	<label class="radio inline">
+					    <input type="radio" name="gender" value="male">男
+			    	</label>
+			    	<label class="radio inline">
+					    <input type="radio" name="gender" value="female">女
+					</label>
 			    </div>
 			  </div>
 			  <div class="control-group">

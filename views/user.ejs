@@ -1,37 +1,87 @@
 <%- include header %>
 <div class="container">
-  <!--用户信息栏-->
-  <div class="user-info span3">
-    <div class="avatar">
-      <img src="<%= puser.head %>" class="img-circle">
-    </div>
-    <div class="info-box">
-      <div class="name-box">
-        <a href="/u/<%= puser.name %>"><%= puser.name %></a>
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <!--用户信息栏-->
+      <div class="user-info offset2 span8">
+        <div class="pavatar">
+          <img src="<%= puser.head %>" class="img-circle img-polaroid">
+        </div>
+        <div class="info-box">
+          <div class="pname-box">
+            <a href="/u/<%= puser.name %>"><%= puser.name %>
+            <% if(puser.gender == "male") { %>
+              <b style="color:rgb(104, 183, 240)">♂</b>
+            <% } else { %>
+              <b style="color:rgb(250, 129, 175)">♀</b>
+            <% } %>
+            </a>
+          </div>
+        </div>
+        <ul class="user-detail puser">
+          <li>
+            <a href="/u/<%= puser.name %>/follow">
+              <strong><%= puser.follow.length-1 %></strong>
+              <span>关注</span>
+            </a>
+          </li>
+          <li>
+            <a href="/u/<%= puser.name %>/fans">
+              <strong id="fans-length"><%= puser.fans.length %></strong>
+              <span>粉丝</span>
+            </a>
+          </li>
+          <li class="info-last">
+            <a href="/u/<%= puser.name %>">
+              <strong id="twibo-length"><%= posts.length %></strong>
+              <span>Twibo</span>
+            </a>
+          </li>
+        </ul>
+        <div class="clearfix"></div>
+      <% if (puser.name !== user.name) { %>
+        <% if (isFollowed) { %>
+        <button type="submit" class="btn followed" id="fobtn" data-follow="<%= puser.name %>">取消关注</button>
+        <% } else { %>
+        <button type="submit" class="btn" id="fobtn" data-follow="<%= puser.name %>">关注</button>
+        <% } %>
+      <% } %>
       </div>
     </div>
-    <ul class="user-detail">
-      <li>
-        <a href="/u/<%= puser.name %>/follow">
-          <strong><%= puser.follow.length-1 %></strong>
-          <span>关注</span>
-        </a>
-      </li>
-      <li>
-        <a href="/u/<%= puser.name %>/fans">
-          <strong><%= puser.fans.length %></strong>
-          <span>粉丝</span>
-        </a>
-      </li>
-      <li>
-        <a href="/u/<%= puser.name %>">
-          <strong><%= posts.length %></strong>
-          <span>Twibo</span>
-        </a>
-      </li>
-    </ul>
-    <div class="clearfix"></div>
-  <% if (puser.name !== user.name) { %>
-    <button type="submit" class="btn" id="fobtn" data-follow="<%= puser.name %>">关注</button>
-  <% } %>
+    <div class="row-fluid">
+      <ul class="all-twibo offset2 span8">
+        <h4>微博列表：</h4>
+        <% if (puser.posts.length > 0) { %>
+        <% posts.forEach(function (post, index) { %>
+          <li class="twibo" id="<%= post._id %>">
+            <div class="avatar"><img src="<%= post.poster.head %>"></div>
+            <p class="info">
+              <a href="/u/<%= post.poster.name %>"><%= post.poster.name %></a> | 
+              日期：<%= post.formatedDate %>
+              <% if (puser.name == user.name) { %>
+              <a type="submit" class="delbtn" data-twibo="<%= post._id %>">删除</a>
+              <% } %>
+            </p>
+            <p class="twiContent"><%- post.post %></p>
+            <% if (post.image == "") { %>
+
+            <% } else { %>
+              <img src="<%= post.image %>" class="img-polaroid twiPic">
+            <% } %>
+          <div class="clearfix"></div>
+          <span><a href="/twibo/<%= post._id %>">回复 (<%- post.comment.length %>)</a></span><span>|</span><span><a type="submit" class="retwibtn" data-retwi="<%= post._id %>">转发</a></span>
+          <div class="clearfix"></div>
+          </li>
+        <% }) %>
+        <% } else { %>
+          <div class="noResults">还没有发布过微博噢~(・ω・)ノ</div>
+        <% } %>
+      </ul>
+    </div>
   </div>
+</div>
+    <script src="javascripts/jquery-2.1.1.min.js"></script>
+    <script src="javascripts/bootstrap.js"></script>
+    <script type="text/javascript" src="javascripts/user.js"></script>
+  </body>
+</html>

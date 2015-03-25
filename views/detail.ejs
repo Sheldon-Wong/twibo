@@ -1,0 +1,99 @@
+<%- include header %>
+
+<div class="container">
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <!--用户信息栏-->
+      <div class="user-info span3">
+        <div class="avatar">
+          <img src="<%= user.head %>" class="img-circle img-polaroid">
+        </div>
+        <div class="info-box">
+          <div class="name-box">
+            <a href="/u/<%= user.name %>"><%= user.name %>
+            <% if(user.gender == "male") { %>
+              <b style="color:rgb(104, 183, 240)">♂</b>
+            <% } else { %>
+              <b style="color:rgb(250, 129, 175)">♀</b>
+            <% } %>
+            </a>
+          </div>
+        </div>
+        <ul class="user-detail">
+          <li>
+            <a href="/u/<%= user.name %>/follow">
+              <strong><%= user.follow.length-1 %></strong>
+              <span>关注</span>
+            </a>
+          </li>
+          <li>
+            <a href="/u/<%= user.name %>/fans">
+              <strong><%= user.fans.length %></strong>
+              <span>粉丝</span>
+            </a>
+          </li>
+          <li class="info-last">
+            <a href="/u/<%= user.name %>">
+              <strong><%= user.posts.length %></strong>
+              <span>Twibo</span>
+            </a>
+          </li>
+          <div class="clearfix"></div>
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+      <!--微博栏-->
+      <div class="span6 all-twibo">
+        <div class="twibo">
+          <div class="avatar"><img src="<%= post.poster.head %>"></div>
+          <p class="info">
+            <a href="/u/<%= post.poster.name %>"><%= post.poster.name %></a> | 
+            日期：<%= post.formatedDate %>
+          </p>
+          <p class="twiContent"><%- post.post %></p>
+          <% if (post.image == "") { %>
+
+          <% } else { %>
+            <img src="<%= post.image %>" class="img-polaroid twiPic">
+          <% } %>
+          <div class="clearfix"></div>
+        </div>
+        <div class="comment">
+          <form method="post" action="/comment">
+            <% if (error) { %>
+              <div class="error"><%= error %> </div>
+            <% } %>
+            <textarea name="comment" id="commenttext"></textarea><br />
+            <input type="hidden" name="post" value="<%= post._id %>">
+            <button class="btn btn-primary" type="submit" value="评论">评论</button>
+          </form>
+          <div class="clearfix"></div>
+        </div>
+        <ul class="comment-list">
+          <% comments.forEach(function (comment, index) { %>
+            <li class="twibo comments" id="<%= comment._id %>">
+              <div class="avatar"><img src="<%= comment.poster_head %>"></div>
+              <p class="info">
+                <a href="/u/<%= comment.poster_name %>"><%= comment.poster_name %></a> | 
+                日期：<%= comment.formatedDate %>
+              </p>
+              <p class="twiContent"><%- comment.comment %></p>
+              <div class="clearfix"></div>
+              <span><a class="replybtn" data-reply="<%= comment.poster_name %>">回复</a></span>
+              <div class="clearfix"></div>
+            </li>
+          <% }) %>
+        </ul>
+      </div>
+      <!--话题栏-->
+      <!-- <ul class="span3 hashtag">
+        <li><a href="">#K3003</a></li>
+        <li><a href="">#ToGo334</a></li>
+        <li><a href="">#SE846</a></li>
+        <li><a href="">#IE800</a></li>
+      </ul> -->
+    </div>
+  </div>
+</div>
+
+<%- include footer %>

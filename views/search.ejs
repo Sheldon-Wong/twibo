@@ -1,12 +1,79 @@
 <%- include header %>
-<ul class="archive">
-<% var lastYear = 0 %>
-<% posts.forEach(function (post, index) { %>
-  <% if(lastYear != post.time.year) { %>
-    <li><h3><%= post.time.year %></h3></li>
-  <% lastYear = post.time.year } %>
-    <li><time><%= post.time.day %></time></li>
-    <li><a href="/u/<%= post.name %>/<%= post.time.day %>/<%= post.title %>"><%= post.title %></a></li>
-<% }) %>
-</ul>
+
+<div class="container">
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <!--用户信息栏-->
+      <div class="user-info span3">
+        <div class="avatar">
+          <img src="<%= user.head %>" class="img-circle img-polaroid">
+        </div>
+        <div class="info-box">
+          <div class="name-box">
+            <a href="/u/<%= user.name %>"><%= user.name %>
+            <% if(user.gender == "male") { %>
+              <b style="color:rgb(104, 183, 240)">♂</b>
+            <% } else { %>
+              <b style="color:rgb(250, 129, 175)">♀</b>
+            <% } %>
+            </a>
+          </div>
+        </div>
+        <ul class="user-detail">
+          <li>
+            <a href="/u/<%= user.name %>/follow">
+              <strong><%= user.follow.length-1 %></strong>
+              <span>关注</span>
+            </a>
+          </li>
+          <li>
+            <a href="/u/<%= user.name %>/fans">
+              <strong><%= user.fans.length %></strong>
+              <span>粉丝</span>
+            </a>
+          </li>
+          <li class="info-last">
+            <a href="/u/<%= user.name %>">
+              <strong><%= user.posts.length %></strong>
+              <span>Twibo</span>
+            </a>
+          </li>
+          <div class="clearfix"></div>
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+      <!--搜索结果栏-->
+      <ul class="span6 all-user">
+        <h4>搜索结果：</h4>
+        <% if (users.length === 0) { %>
+          <div class="noResult">这个用户不存在噢(´・ω・｀)</div>
+        <% } else { %>
+        <% users.forEach(function (user, index) { %>
+        <li class="user">
+          <div class="avatar"><img src="<%= user.head %>"></div>
+          <p class="info">
+            <a href="/u/<%= user.name %>"><%= user.name %>
+            <% if(user.gender == "male") { %>
+              <b style="color:rgb(104, 183, 240)">♂</b>
+            <% } else { %>
+              <b style="color:rgb(250, 129, 175)">♀</b>
+            <% } %>
+            </a>
+          </p>
+        <div class="clearfix"></div>
+        </li>
+        <% }) %>
+        <% } %>
+      </ul>
+      <!--话题栏-->
+      <!-- <ul class="span3 hashtag">
+        <li><a href="">#K3003</a></li>
+        <li><a href="">#ToGo334</a></li>
+        <li><a href="">#SE846</a></li>
+        <li><a href="">#IE800</a></li>
+      </ul> -->
+    </div>
+  </div>
+</div>
+
 <%- include footer %>

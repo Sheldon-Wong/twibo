@@ -7,11 +7,17 @@
       <!--用户信息栏-->
       <div class="user-info span3">
         <div class="avatar">
-          <img src="<%= user.head %>" class="img-circle">
+          <img src="<%= user.head %>" class="img-circle img-polaroid">
         </div>
         <div class="info-box">
           <div class="name-box">
-            <a href="/u/<%= user.name %>"><%= user.name %></a>
+            <a href="/u/<%= user.name %>"><%= user.name %>
+            <% if(user.gender == "male") { %>
+              <b style="color:rgb(104, 183, 240)">♂</b>
+            <% } else { %>
+              <b style="color:rgb(250, 129, 175)">♀</b>
+            <% } %>
+            </a>
           </div>
         </div>
         <ul class="user-detail">
@@ -27,41 +33,65 @@
               <span>粉丝</span>
             </a>
           </li>
-          <li>
+          <li class="info-last">
             <a href="/u/<%= user.name %>">
-              <strong><%= postNum %></strong>
+              <strong><%= user.posts.length %></strong>
               <span>Twibo</span>
             </a>
           </li>
+          <div class="clearfix"></div>
         </ul>
         <div class="clearfix"></div>
       </div>
       <% } else { %>
-
+      <div class="guide-info span3">
+        <li><a title="登录" href="/login">登录</a></li>
+        <li><a title="注册" href="/reg">注册</a></li>
+      </div>
       <% } %>
       <!--微博栏-->
-      <div class="span9 all-twibo">
-        <div class="new-post">
+      <ul class="span6 all-twibo">
+        <li class="new-post">
         <% if (user) { %>
-          <form method="post" action="/post">
-            <textarea name="post"></textarea><br />
-            <input type="submit" value="发表" />
+            <form method="post" action="/post" enctype="multipart/form-data">
+            <% if (error) { %>
+              <div class="error"><%= error %> </div>
+            <% } %>
+            <textarea name="post" maxlength="140"></textarea><br />
+            <input type="file" name="twiPic" accept="image/jpeg, image/png, image/gif" />
+            <button class="btn btn-primary" type="submit" value="发表">发表</button>
           </form>
         <% } else { %>
-
+          <%- include intro %>
         <% } %>
-        </div>
-        <div>
-
-        </div>
+          <div class="clearfix"></div>
+        </li>
         <% posts.forEach(function (post, index) { %>
+        <li class="twibo">
+          <div class="avatar"><img src="<%= post.poster.head %>"></div>
           <p class="info">
-            作者：<a href="/u/<%= post.name %>"><%= post.name %></a> | 
-            日期：<%= post.time.minute %>
+            <a href="/u/<%= post.poster.name %>"><%= post.poster.name %></a> | 
+            日期：<%= post.formatedDate %>
           </p>
-          <p><%- post.post %></p>
+          <p class="twiContent"><%- post.post %></p>
+          <% if (post.image == "") { %>
+
+          <% } else { %>
+            <img src="<%= post.image %>" class="img-polaroid twiPic">
+          <% } %>
+          <div class="clearfix"></div>
+          <span><a href="/twibo/<%= post._id %>">回复 (<%- post.comment.length %>)</a></span><span>|</span><span><a type="submit" class="retwibtn" data-retwi="<%= post._id %>">转发</a></span>
+          <div class="clearfix"></div>
+        </li>
         <% }) %>
-      </div>
+      </ul>
+      <!--话题栏-->
+<!--       <ul class="span3 hashtag">
+        <li><a href="">#Duang~</a></li>
+        <li><a href="">#Hashtag</a></li>
+        <li><a href="">#Duang~Duang~</a></li>
+        <li><a href="">#Tag</a></li>
+      </ul> -->
     </div>
   </div>
 </div>

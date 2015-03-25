@@ -9,12 +9,23 @@ var path = require('path');
 var MongoStore = require('connect-mongo')(express);
 var settings = require('./settings');
 var flash = require('connect-flash');
+var mongoose = require('mongoose');
 
 var fs = require('fs');
 var accessLog = fs.createWriteStream('access.log', {flags: 'a'});
 var errorLog = fs.createWriteStream('error.log', {flags: 'a'});
 
 var app = express();
+
+// not elegant to connect mongodb
+(function() {
+  mongoose.connect(
+    "mongodb://localhost/" + settings.db,
+    {server: {socketOptions: {keepAlive: 1}}}
+  );
+})();
+
+mongoose.connection.on('error', console.error);
 
 // all environments
 app.set('port', process.env.PORT || 3000);

@@ -4,8 +4,13 @@
 }
 
 body {
-	background: #edeeef url(../images/noise-2.png);
+	background: #edeeef url('../images/noise-2.png');
 	font-family: 'Microsoft Yahei';
+}
+
+.error {
+	text-align: center;
+	margin-bottom: 10px;
 }
 
 li {
@@ -27,6 +32,8 @@ h1.big-logo {
 	text-shadow: 3px 3px 5px #2e2e2e;
 }
 
+
+
 #intro-article {
 	text-align: center;
 	text-shadow: 1px 1px 3px #2e2e2e;
@@ -36,12 +43,34 @@ h1.big-logo {
 }
 
 .user-info {
-	background-color: white;
-	border-radius: 5px;
+	/*background: url('../images/userbg.jpg');
+	background-position: 60% 45%;*/
+	background: #555;
+}
+
+.user-info a {
+	color: #fff;
+}
+
+.guide-info {
+	background-color: #fafafa;
+}
+
+.user-info, .guide-info {
 	text-align: center;
 	padding: 25px 0;
-	margin-top: 10px;
+	margin-top: 15px;
 	line-height: 30px;
+	border: 1px solid rgba(192, 192, 192, 0.8);
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 1px 16px rgba(0,0,0,.1);
+	-moz-box-shadow: 0 1px 16px rgba(0,0,0,.1);
+	box-shadow: 0 1px 16px rgba(0,0,0,.1);
+}
+
+.user-info .avatar {
+	margin-top: 15px;
 }
 
 .user-info .avatar img {
@@ -49,19 +78,73 @@ h1.big-logo {
 	height: 70px;
 }
 
+.user-info .pavatar {
+	margin-top: 25px;
+}
+
+.user-info .pavatar img {
+	width: 100px;
+	height: 100px;
+}
+
+.user-info .name-box {
+	margin-bottom: 10px;
+}
+
+.user-info .pname-box {
+	margin-bottom: 15px;
+	font-size: 18px;
+}
+
+.user-info .user-detail {
+	margin: 0;
+}
+
 .user-info .user-detail li {
 	float: left;
-	width: 30%;
+	width: 33%;
+	margin-left: 0;
 	text-align: center;
 	border-right: 1px solid #adadad;
 }
 
-.user-info .user-detail li:last-child {
+.user-info .user-detail li.info-last {
 	border: 0;
 }
 
 .user-info .user-detail li a, .user-info .user-detail li strong, .user-info .user-detail li span {
 	display: block;
+}
+
+.user-info .puser {
+	font-size: 15px;
+}
+
+.user-info button {
+	font-family: 'Microsoft Yahei';
+	margin-top: 20px;
+}
+
+.guide-info {
+	padding: 0;
+}
+
+.guide-info li {
+	text-align: left;
+	padding: 10px;
+}
+
+.guide-info li:hover {
+	background-color: #0088cc;
+}
+
+.guide-info li:hover > a {
+	color: #fafafa;
+	-webkit-transition: color .2s linear;
+}
+
+.guide-info li a {
+	text-decoration: none;
 }
 
 .forms {
@@ -71,4 +154,177 @@ h1.big-logo {
 
 .form-btn {
 	margin-left: 105px;
+}
+
+.all-twibo, .all-user {
+ 	background-color: #e0e1e2;
+ 	border: 1px solid rgba(0,0,0,.1);
+	border-width: 0 1px 1px;
+ 	-webkit-box-shadow: inset 1px 0 0 rgba(0,0,0,.05),inset -1px 0 0 rgba(0,0,0,.05);
+	-moz-box-shadow: inset 1px 0 0 rgba(0,0,0,.05),inset -1px 0 0 rgba(0,0,0,.05);
+	box-shadow: inset 1px 0 0 rgba(0,0,0,.05),inset -1px 0 0 rgba(0,0,0,.05);
+}
+
+.new-post, .comment {
+	padding: 18px 25px 0 25px;
+}
+
+.comment {
+	margin-bottom: 10px;
+}
+
+.new-post h1 {
+	margin: 50px;
+}
+
+.new-post form textarea, .comment form textarea {
+	width: 98%;
+	height: 80px;
+	resize: none;
+	border-radius: 3px;
+}
+
+.new-post form input, .comment form input {
+	height: 20px;
+	line-height: 0px;
+	margin-top: 5px;
+}
+
+.new-post form button, .comment form button {
+	float: right;
+}
+
+.all-twibo .twibo {
+	padding: 25px;
+	background: #fafafa;
+	border-top: 1px solid silver;
+	-webkit-box-shadow: 0 1px 16px rgba(0,0,0,.1);
+	-moz-box-shadow: 0 1px 16px rgba(0,0,0,.1);
+	box-shadow: 0 1px 16px rgba(0,0,0,.1);
+	text-align: left;
+}
+
+.all-twibo .twibo .avatar {
+	float: left;
+	width: 50px;
+	margin-right: 8px;
+}
+
+.all-twibo .twibo .avatar img {
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.all-twibo .twibo p.twiContent {
+	word-break: break-all; 
+	width: 78%;
+	float: left;
+}
+
+.all-twibo .twibo .twiPic {
+	width: 99%;
+}
+
+.all-twibo .twibo .delbtn {
+	float: right;
+	margin-right: 3px;
+	color: #ED5E5A;
+	cursor: pointer;
+}
+
+.all-twibo .twibo span {
+	float: right;
+	margin-right: 5px;
+	margin-top: 10px;
+	cursor: pointer;
+}
+
+.all-twibo ul.comment-list {
+	margin: 0;
+}
+
+.all-twibo ul.comment-list li.comments {
+	padding-bottom: 10px;
+}
+
+.all-twibo ul.comment-list li.comments span {
+	margin-top: 0;
+}
+
+.all-user h4, .all-twibo h4 {
+	font-weight: normal;
+	margin: 15px 20px;
+}
+
+.all-user .user {
+	padding: 10px 20px;
+	background: #fafafa;
+	border-bottom: 1px solid silver;
+	text-align: left;
+}
+
+.all-user .user .avatar {
+	float: left;
+	width: 60px;
+	margin-right: 8px;
+}
+
+.all-user .user .info {
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+	font-size: 18px;
+}
+
+.all-user .user button {
+	float: right;
+	margin-top: 15px;
+	margin-right: 10px;
+	font-family: 'Microsoft Yahei';
+}
+
+.all-user .noResult {
+	text-align: center;
+	font-size: 23px;
+	padding: 330px 0;
+	color: #999;
+}
+
+.all-user .noResults, .all-twibo .noResults {
+	text-align: center;
+	font-size: 23px;
+	padding: 100px 0;
+	color: #999;
+}
+
+.all-user .curAvatar {
+	float: left;
+	padding: 18px;
+	margin-right: 208px;
+}
+
+.all-user .curAvatar img {
+	width: 120px;
+}
+
+.all-user .upload {
+	float: left;
+	margin-top: 80px;
+	padding-left: 18px;
+}
+
+.hashtag {
+	background-color: #fafafa;
+	padding: 20px;
+	margin-top: 15px;
+	border: 1px solid rgba(192, 192, 192, 0.8);
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 1px 16px rgba(0,0,0,.1);
+	-moz-box-shadow: 0 1px 16px rgba(0,0,0,.1);
+	box-shadow: 0 1px 16px rgba(0,0,0,.1);
+}
+
+ul.hashtag li {
+	line-height: 30px;
 }

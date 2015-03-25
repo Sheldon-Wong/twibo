@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>Twibo</title>
+		<link rel="stylesheet" href="stylesheets/bootstrap.css" media="screen">
+		<style type="text/css">
+			body {
+				padding: 40px;
+			}
+		</style>
+		<link rel="stylesheet" href="stylesheets/bootstrap-responsive.css" media="screen">
+		<link rel="stylesheet" href="stylesheets/style.css">
+	</head>
+	<body>
+		<div class="navbar navbar-inverse navbar-fixed-top">
+		  <div class="navbar-inner">
+		  	<div class="container">
+		  		<a href="/" class="brand logo">Twibo</a>
+			    <form class="navbar-search" action="/search" method="GET">
+			    	<input type="text" name="keyword" class="search-query span2" placeholder="Search">
+			    </form>
+			    <ul class="nav pull-right">
+			    	<li><a href="/u/<%= user.name %>">Sheldon</a></li>
+			    	<li><a title="登出" href="/logout">登出</a></li>
+			    </ul>
+			</div>
+		  </div>
+		</div>
+
+		<article>
+			<div class="container">
+			  <div class="container-fluid">
+			    <div class="row-fluid">
+			      <!--用户信息栏-->
+			      <div class="user-info span3">
+			        <div class="avatar">
+			          <img src="images/default.png" class="img-circle">
+			        </div>
+			        <div class="info-box">
+			          <div class="name-box">
+			            <a href="/u/<%= user.name %>">Sheldon</a>
+			          </div>
+			        </div>
+			        <ul class="user-detail">
+			          <li>
+			            <a href="/u/<%= user.name %>/follow">
+			              <strong>233</strong>
+			              <span>关注</span>
+			            </a>
+			          </li>
+			          <li>
+			            <a href="/u/<%= user.name %>/fans">
+			              <strong>233</strong>
+			              <span>粉丝</span>
+			            </a>
+			          </li>
+			          <li>
+			            <a href="/u/<%= user.name %>">
+			              <strong>233</strong>
+			              <span>Twibo</span>
+			            </a>
+			          </li>
+			        </ul>
+			        <div class="clearfix"></div>
+			      </div>
+			      <!--微博栏-->
+			      <div class="span6 all-twibo">
+			        <div class="new-post">
+			          <form method="post" action="/post">
+			            <textarea name="post" maxlength="140"></textarea><br />
+			            <input type="submit" value="发表" />
+			          </form>
+			          <div class="clearfix"></div>
+			        </div>
+			        <li class="twibo">
+			          <p class="info">
+			            作者：<a href="/u/<%= post.name %>">Sheldon</a> | 
+			            日期：2015.01.22
+			          </p>
+			          <p>动圈和动铁就像是水与火的关系，两者互斥但又互补。</p>
+			        </li>
+			        <li class="twibo">
+			          <p class="info">
+			            作者：<a href="/u/<%= post.name %>">Sheldon</a> | 
+			            日期：2015.01.22
+			          </p>
+			          <p>AKG K3003将动铁与动圈单元相结合，从视频中我们看到。K3003是由一个复合动铁单元与动圈单元组成，动铁单元负责中高频部分，而动圈单元负责低频部分。</p>
+			        </li>
+			        <li class="twibo">
+			          <p class="info">
+			            作者：<a href="/u/<%= post.name %>">Sheldon</a> | 
+			            日期：2015.01.22
+			          </p>
+			          <p>和之前UE 5EB的结构不同，K3003的单元是同轴排列，这样的好处在于声音的稳定性和控制力更强。但问题也随之而来，动圈单元的能量如何与动铁单元相结合。</p>
+			        </li>
+			      </div>
+			      <ul class="span3 hashtag">
+			        <li><a href="">#K3003</a></li>
+			        <li><a href="">#ToGo334</a></li>
+			        <li><a href="">#SE846</a></li>
+			        <li><a href="">#IE800</a></li>
+			      </ul>
+			    </div>
+			  </div>
+			</div>
+		</article>
+		<script src="javascripts/jquery-2.1.1.min.js"></script>
+		<script src="javascripts/bootstrap.js"></script>
+	</body>
+</html>

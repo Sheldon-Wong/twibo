@@ -1,12 +1,72 @@
-<%- include user %>
-		<% posts.forEach(function (post, index) { %>
-		    <p class="info">
-		      作者：<a href="/u/<%= post.name %>"><%= post.name %></a> | 
-		      日期：<%= post.time.minute %>
-		    </p>
-		    <p><%- post.post %></p>
-		<% }) %>
-		</div>
+<%- include header %>
+<div class="container">
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <!--用户信息栏-->
+      <div class="user-info offset2 span8">
+        <div class="pavatar">
+          <img src="<%= puser.head %>" class="img-circle img-polaroid">
+        </div>
+        <div class="info-box">
+          <div class="pname-box">
+            <a href="/u/<%= puser.name %>"><%= puser.name %>
+            <% if(puser.gender == "male") { %>
+              <b style="color:rgb(104, 183, 240)">♂</b>
+            <% } else { %>
+              <b style="color:rgb(250, 129, 175)">♀</b>
+            <% } %>
+            </a>
+          </div>
+        </div>
+        <ul class="user-detail puser">
+          <li>
+            <a href="/u/<%= puser.name %>/follow">
+              <strong><%= puser.follow.length-1 %></strong>
+              <span>关注</span>
+            </a>
+          </li>
+          <li>
+            <a href="/u/<%= puser.name %>/fans">
+              <strong id="fans-length"><%= puser.fans.length %></strong>
+              <span>粉丝</span>
+            </a>
+          </li>
+          <li class="info-last">
+            <a href="/u/<%= puser.name %>">
+              <strong><%= posts.length %></strong>
+              <span>Twibo</span>
+            </a>
+          </li>
+        </ul>
+        <div class="clearfix"></div>
+		  </div>
+      <div class="row-fluid">
+        <ul class="all-user offset2 span8">
+          <h4>粉丝列表：</h4>
+          <% puser.fans.forEach(function (fans, index) { %>
+          <% if (puser.fans.length > 0) { %>
+	        <% if (puser.name !== fans.name) { %>
+	            <li class="user">
+	              <div class="avatar"><img src="<%= fans.head %>"></div>
+	              <p class="info">
+	                <a href="/u/<%= fans.name %>"><%= fans.name %>
+                  <% if(fans.gender == "male") { %>
+                    <b style="color:rgb(104, 183, 240)">♂</b>
+                  <% } else { %>
+                    <b style="color:rgb(250, 129, 175)">♀</b>
+                  <% } %>
+                  </a>
+	              </p>
+	            <div class="clearfix"></div>
+	            </li>
+	        <% } %>
+          <% } else { %>
+            <div class="noResults">居然还没有人关注...(´・ω・`)</div>
+          <% } %>
+          <% }) %>
+        </ul>
+  	</div>
+</div>
 		<script src="javascripts/jquery-2.1.1.min.js"></script>
 		<script src="javascripts/bootstrap.js"></script>
 		<script type="text/javascript" src="javascripts/user.js"></script>
